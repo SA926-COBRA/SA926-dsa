@@ -5,7 +5,7 @@ package com.leetcode;/*
  */
 
 // @lc code=start
-class Solution {
+class LeetCode1480Solution {
     public int[] runningSum(int[] nums) {
         int[] results = new int[nums.length];
         results[0] = nums[0];

@@ -9,7 +9,7 @@ package com.leetcode;/*
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class LeetCode412Solution {
     public List<String> fizzBuzz(int n) {
         List<String> answer = new ArrayList<>(n);
 

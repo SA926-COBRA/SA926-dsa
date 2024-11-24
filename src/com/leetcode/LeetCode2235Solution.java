@@ -5,7 +5,7 @@ package com.leetcode;/*
  */
 
 // @lc code=start
-class Solution {
+class LeetCode2235Solution {
     public int sum(int num1, int num2) {
         return (num1 + num2);
     }

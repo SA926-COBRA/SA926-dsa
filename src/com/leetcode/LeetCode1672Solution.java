@@ -5,7 +5,7 @@ package com.leetcode;/*
  */
 
 // @lc code=start
-class Solution {
+class LeetCode1672Solution {
     public int maximumWealth(int[][] accounts) {
         int maxWealthSoFar = 0;
         for (int[] customer : accounts) {

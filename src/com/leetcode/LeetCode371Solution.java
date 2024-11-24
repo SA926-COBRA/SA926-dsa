@@ -5,7 +5,7 @@ package com.leetcode;/*
  */
 
 // @lc code=start
-class Solution {
+class LeetCode371Solution {
     public int getSum(int a, int b) {
         while (b != 0) {
             int temp = (a & b) << 1;
